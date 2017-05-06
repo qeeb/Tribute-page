@@ -1,0 +1,34 @@
+body{
+  background: #424242;
+}
+.jumbotron{
+  margin-top: 60px;
+}
+.full-width{
+  width: 100%;
+}
+.bottom-border{
+  border-bottom: 1px solid #424242;
+  padding-bottom: 15px;
+}
+.width70{
+  width: 70%;
+}
+ul li{
+  font-size: 17px;
+}
+.row{
+  position: relative !important;
+  width: 100%;
+}
+.tfp{
+  margin-top: 50px;
+}
+.credit{
+  font-size: 14px !important;
+  float: right;
+}
+.who-coded{
+  font-size: 25px;
+  color: #fff;
+}
